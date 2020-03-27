@@ -172,7 +172,11 @@ public class RegistroMaestros extends javax.swing.JFrame {
             PreparedStatement pst = cn.prepareStatement("insert into maestros values(?,?,?,?,?)");
 
             pst.setString(1, "0");
-           
+           pst.setString(2, txt_NombreMaestros.getText().trim());
+            pst.setString(3, txt_CorreoMaestro.getText().trim());
+            pst.setString(4, txt_telefonoMaestro.getText().trim());
+            pst.setString(5, txt_DireccionMaestro.getText().trim());
+            
             
             
 
