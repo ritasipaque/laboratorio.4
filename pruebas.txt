@@ -1,11 +1,25 @@
-2. La departamentalización es un medio para organizar las actividades de la empresa, 
-con el fin de facilitar la consecución de sus objetivos, consiste en la coordinación
- en la combinación y/o agrupación adecuada de las actividades necesarias para la organización 
-en departamentos específicos.2 oct. 2013
-ipos de departamentalización
-A la hora de clasificar los diferentes tipos de departamentalización se puede hacer según al criterio
- que se aplique esta, a continuación se mencionan los diferentes casos:
-Por tiempo: Es aquella que se realiza de acuerdo al turno de trabajo o a la jornada laboral.
-Por cliente: Se organiza la empresa de acuerdo al tipo de servicio que se presta a un determinado 
-cliente o de acuerdo a la clase de necesidades que presenten estos.
-Por territorio: De acuerdo con el área geográfica donde se brindan los servicios la empresa.
+Una base de datos es un conjunto de datos pertenecientes a un mismo contexto y almacenados
+ sistemáticamente para su posterior uso. En este sentido; una biblioteca puede considerarse
+ una base de datos compuesta en su mayoría por documentos y textos impresos en papel e indexados
+ para su consulta. Actualmente, y debido al desarrollo tecnológico de campos como la informática y 
+la electrónica, la mayoría de las bases de datos están en formato digital, siendo este un componente
+ electrónico, por tanto se ha desarrollado y se ofrece un amplio rango de soluciones al problema del 
+almacenamiento de datos.
+
+Hay programas denominados sistemas gestores de bases de datos, abreviado SGBD (del inglés Database Management System o DBMS),
+ que permiten almacenar y posteriormente acceder a los datos de forma rápida y estructurada. Las propiedades de estos DBMS, 
+así como su utilización y administración, se estudian dentro del ámbito de la informática.
+
+Las aplicaciones más usuales son para la gestión de empresas e instituciones públicas; También
+ son ampliamente utilizadas en entornos científicos con el objeto de almacenar la información experimental.
+Aunque las bases de datos pueden contener muchos tipos de datos, algunos de ellos se encuentran mutuamente 
+protegidos por las leyes de varios países. Por ejemplo en España, los datos personales se encuentran
+ protegidos por la Ley Orgánica de Protección de Datos de Carácter Personal (LOPD), en México por 
+la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y en Argentina la 
+Ley de Protección de Datos Personales.1?
+
+En Argentina el Código Penal sanciona ciertas conductas relacionadas con una base de datos: acceder 
+ilegítimamente a un banco de datos personales, proporcionar o revelar información registrada en un archivo 
+o en un banco de datos personales cuyo secreto estuviere obligado a guardar por ley o insertar o hacer 
+insertar datos en un archivo de datos personales. Si el autor es funcionario público, sufre además pena 
+de inhabilitación especial.  
