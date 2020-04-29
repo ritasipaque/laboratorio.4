@@ -6,9 +6,13 @@ la electrónica, la mayoría de las bases de datos están en formato digital, siend
  electrónico, por tanto se ha desarrollado y se ofrece un amplio rango de soluciones al problema del 
 almacenamiento de datos.
 
-Hay programas denominados sistemas gestores de bases de datos, abreviado SGBD (del inglés Database Management System o DBMS),
- que permiten almacenar y posteriormente acceder a los datos de forma rápida y estructurada. Las propiedades de estos DBMS, 
-así como su utilización y administración, se estudian dentro del ámbito de la informática.
+
+En Argentina el Código Penal sanciona ciertas conductas relacionadas con una base de datos: acceder 
+ilegítimamente a un banco de datos personales, proporcionar o revelar información registrada en un archivo 
+o en un banco de datos personales cuyo secreto estuviere obligado a guardar por ley o insertar o hacer 
+insertar datos en un archivo de datos personales. Si el autor es funcionario público, sufre además pena 
+de inhabilitación especial.  
+
 
 Las aplicaciones más usuales son para la gestión de empresas e instituciones públicas; También
  son ampliamente utilizadas en entornos científicos con el objeto de almacenar la información experimental.
@@ -18,8 +22,3 @@ protegidos por las leyes de varios países. Por ejemplo en España, los datos pers
 la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y en Argentina la 
 Ley de Protección de Datos Personales.1?
 
-En Argentina el Código Penal sanciona ciertas conductas relacionadas con una base de datos: acceder 
-ilegítimamente a un banco de datos personales, proporcionar o revelar información registrada en un archivo 
-o en un banco de datos personales cuyo secreto estuviere obligado a guardar por ley o insertar o hacer 
-insertar datos en un archivo de datos personales. Si el autor es funcionario público, sufre además pena 
-de inhabilitación especial.  
